@@ -4,9 +4,9 @@
 
 La fisica classica è l'insieme delle leggi fisiche sviluppato a partire da Galileo (circa 400 anni fa) fino alla fine dell'800. Comprende meccanica, termodinamica ed elettromagnetismo. E' valida per:
 
-    - Oggetti macroscopici
-    - Basse velocità
-    - Interazioni gravitazionali ed elettromagnetiche
+- Oggetti macroscopici
+- Basse velocità
+- Interazioni gravitazionali ed elettromagnetiche
 
 ## Limiti della fisica classica
 
@@ -46,11 +46,29 @@ E' responsabile di quasi tutto ciò che tocchiamo nella vita quotidiana: legami 
 ### Interazione Nucleare Forte
 
 Agisce solo a scale subatomiche (dell'ordine di 10^{-15}m, la dimensione dei nuclei). E' la **più intensa** delle quattro forze, ed è quella che tiene insieme i **protoni e neutroni del nucleo** vincendo la repulsione elettromagnetica tra i protoni (che hanno carica positiva).
-A livello più profondo, agisce tra i **quark**, i costituenti elementari di protoni e neutroni. La particella mediatrice è il **gluone** (dall'inglese ////__glue__ = colla).
+A livello più profondo, agisce tra i **quark**, i costituenti elementari di protoni e neutroni. La particella mediatrice è il **gluone** (dall'inglese <i>glue</i> = colla).
 
 ### Interazione Nucleare Debole
 
-Agisce anch'essa a scale subatomiche. E' responsabile di certi tipi di **decadimenti radioattivi** (////ad esempio la radioattività beta, in cui un neutrone si trasforma in un protone emettendo un elettrone////). E' più debole dell'interazione forte ed elettromagnetica, ma più forte della gravità.
-Negli anni '70 èstato dimostrato che l'interazione debole e quella elettromagnetica sono manifestazioni di un'unica forza: **l'interazione elettrodebole**.
+Agisce anch'essa a scale subatomiche. E' responsabile di certi tipi di **decadimenti radioattivi** (ad esempio la radioattività beta, in cui un neutrone si trasforma in un protone, assumendo carica positiva e riducendo di poco la sua massa. Questo processo risulta nell'emissione di un elettrone). E' più debole dell'interazione forte ed elettromagnetica, ma più forte della gravità.
+Negli anni '70 è stato dimostrato che l'interazione debole e quella elettromagnetica sono manifestazioni di un'unica forza: **l'interazione elettrodebole**.
+
+$$
+\begin{array}{|c|c|c|c|}
+\hline
+\text{Interazione} & \text{Raggio d'azione} & \text{Intensità relativa} & \text{Cosa tiene insieme} \\
+\hline
+\text{Forte} & \sim 10^{-15}\,\text{m} & 1\ (\text{riferimento}) & 
+\text{Quark nei nucleoni; protoni/neutroni nel nucleo} \\
+\hline
+\text{Elettromagnetica} & \text{Infinito} & \sim 10^{-2} & \text{Elettroni negli atomi; molecole; tutto il mondo macroscopico} \\
+\hline
+\text{Debole} & \sim 10^{-16}\, \text{m} & \sim 10^{-13} & \text{Decadimenti radioattivi beta} \\
+\hline
+\text{Gravitazionale} & \text{Infinito} & \sim 10^{-40} & \text{Pianeti, stelle, galassie} \\
+\hline
+\end{array}
+$$
+
 
 # In questo corso ci occuperemo SOLO delle interazioni gravitazionale ed elettromagnetica. Le interazioni nucleari (forte e debole) restano fuori dal programma.
